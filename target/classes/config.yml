@@ -1,0 +1,13 @@
+#Config was made by Tebbot (Why did i make this)
+DataBase: MYSQL #Your options are MYSQL or MYSQLITE
+
+#Only use this if your using MySQL
+HostName: localhost
+DataBaseName: HorseConfig
+Username: Username
+Password: UWU-SECURE-PASSWORD
+MySQLPoolName: pool
+#Only Use this for MySQlite
+FileName: database.db #MUST INCLUDE .db AT THE END!!!!
+MySQlitePoolName: pool
+

@@ -1,0 +1,9 @@
+name: BunzeeHorse
+version: 0.1
+main: dev.tebbot.bunzeehorse.Main
+authors: [ NotTebbot_ ]
+description: Bunzee horse gui
+commands:
+  horse:
+    description: The main horse
+    aliases: [h]
